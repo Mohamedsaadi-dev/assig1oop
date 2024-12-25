@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "assig1oop": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
